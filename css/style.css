@@ -1,0 +1,189 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+h1,h2,h3,h4,h5{
+font-family: "Droid Arabic Kufi" , serif;
+color: #2D4D58;
+}
+
+
+body{ font-family: "Droid Arabic Kufi" , serif;}
+input{ font-family: "Droid Arabic Kufi" , serif;}
+
+
+.dropdown .dropdown-menu{
+ color: #2D4D58;
+ background: #f6f6f6;
+}
+
+.dropdown .dropdown-menu a{
+   color: #2D4D58;
+}
+
+.tabbable{
+color: #2D4D58;
+}
+
+.tab-content{
+  color: #2D4D58;
+  background: #f6f6f6;
+
+
+}
+div.container {
+   border-bottom: 1px solid #DFDEDE;
+
+}
+.media-heading{
+color: #2D4D58;
+
+}
+
+div .media{
+background: #f6f6f6;
+color: #0f2f3a;
+
+}
+
+.div p{
+color: #000000;
+
+}
+
+.jumbotron{
+  text-align: center;
+  background: #f6f6f6 ;
+
+}
+
+
+h1{font-size: 30px;}
+h2{font-size: 25px;}
+h3{font-size: 22px;}
+h4{font-size: 18px;}
+}
+
+.card{
+  box-shadow: 2px;
+  border-radius: none;
+  border-top: 2px solid #DFDEDE;
+  border-bottom: 2px solid #DFDEDE;
+  border-left:  2px solid #DFDEDE;
+  border-right: 2px solid #DFDEDE;
+margin: 5px;
+padding: 5px;
+  color: #2D4D58;  }
+  .card h3{
+color: #2D4D58;
+  }
+  .card .btn{
+color: #ffffff;
+  text-align: center;
+  background: #2D4D50;
+  }
+
+.btn {
+  color: #ffffff;
+  background: #2D4D50;
+
+}
+
+.btn-sm .btn-outline-secondary {
+text-align: right;
+
+}
+.row .row-center{
+  box-shadow: none;
+  border: 2px solid #DFDEDE;
+
+}
+
+article {
+background: #f6f6f6;
+
+    border: 2px solid #DFDEDE;
+    margin: 5px;
+    padding: 5px;
+  }
+
+.article p{
+  color: #ffffff;
+}
+.article h4{ color: #2D4D58;}
+.article a{
+  color: #DFDEDE;
+  text-align: left;
+}
+
+
+.down {
+  background: #2D4D58 ;
+  color: #dce7ef ;
+  border-bottom: 1px solid #DFDEDE ;
+ }
+
+
+
+h5{
+
+
+}
+.down h5{
+  line-height: 30px;
+  margin-bottom: 20px;
+  color: #C4A978;
+
+
+}
+
+
+
+.thumbnails h5 {
+
+  text-align: left;
+  color: #742E34;
+}
+.down p{
+  font-size: 14px;
+  color: #DFDEDE;
+}
+
+.down a{color: #DFDEDE;}
+.down a.hover {text-decoration: underline;}
+
+footer {
+background-color: #2D4D58;
+padding-top: 15px;
+padding-bottom: 5px;
+margin-bottom: 20px;
+font-size: 12px;
+text-align: center;
+color: #DFDEDE;
+
+
+}
+
+@media (max-width: 979px){
+  .navbar .btn-navbar{
+float: right;
+margin-top: 20px;
+text-align: center;
+color: #ffffff;
+  }
+}
+
+
+@media (max-width: 979px){
+  .down{
+padding-right: 10px;
+padding-left: 10px;
+      }}
+
+footer p{
+padding-right: 10px;
+font-family: "Droid Arabic Kufi" , serif;
+            }
+
+
+@media (max-width: 480px){
+  .slideshow{ display: none;
+  }}
